@@ -1,3 +1,28 @@
+
+
+# Todo List App (React + Vite)
+
+This project is a simple Todo List application built with **React** and **Vite**.  
+It allows you to add, mark complete, and delete tasks. Tasks persist in **localStorage** even after closing the browser.
+
+---
+
+## Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks individually
+- Clear all tasks
+- Persistent tasks using `localStorage`
+
+---
+
+## Live Demo
+
+Check it out here: [Todo List App Demo](https://riya-reginold.github.io/ToDoApp-ReactJS/)
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
